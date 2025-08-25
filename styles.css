@@ -1,0 +1,40 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header h1 { 
+   text-align: center;
+   text-decoration: underline rgb(29, 37, 110);
+}
+body{
+    background-color: rgb(190, 158, 158);
+}
+
+main {
+  background: #eef2ff;            
+  border: 5px dashed #94a3b8;   
+  
+}
+#coloronly{
+    color: rgb(160, 143, 47);
+    background: cyan;           
+}
+#border{
+    border: 6px solid rgb(187, 127, 127);
+    background: #319bd8;  
+}
+
+#padding {
+    padding: 36px;
+    background: #319bd8;             
+    border: 10px solid rgb(187, 127, 127);   
+}
+#margin {
+    margin: 16px ;
+    background: #319bd8;             
+    border: 6px solid rgb(187, 127, 127);   
+}
+#summary {
+    background: #319bd8;             
+    border: 6px solid rgb(187, 127, 127);   
+    padding: 36px;
+    margin: 16px ;}
